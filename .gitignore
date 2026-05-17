@@ -1,0 +1,23 @@
+# 录音/视频/截图素材（太大）
+音频测试/recordings/
+视觉测试/captures/
+captures/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# MediaPipe模型文件（需单独下载）
+视觉测试/models/
+
+# 系统文件
+.DS_Store
+*.pdf
+
+# 状态文件
+vision_status.json
+
+# IDE
+.vscode/
+.idea/
